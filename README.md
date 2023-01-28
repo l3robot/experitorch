@@ -1,4 +1,7 @@
-# experitorch :rocket:
+<img src="logo/logo.jpg" alt="drawing" width="140"/>
+
+#  experitorch 
+
 
 Welcome to **Experitorch** - the ultimate experiment organizer for PyTorch projects!
 
