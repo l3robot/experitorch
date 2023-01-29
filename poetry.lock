@@ -1392,6 +1392,30 @@ typing-extensions = "*"
 opt-einsum = ["opt-einsum (>=3.3)"]
 
 [[package]]
+name = "types-colorama"
+version = "0.4.15.4"
+description = "Typing stubs for colorama"
+category = "dev"
+optional = false
+python-versions = "*"
+files = [
+    {file = "types-colorama-0.4.15.4.tar.gz", hash = "sha256:60f7d6257913135218564cf1b9d2e9678c0ce72c051d9ffaa1a74c76904e5808"},
+    {file = "types_colorama-0.4.15.4-py3-none-any.whl", hash = "sha256:43e071db963fcd02e552e7513a236b9ef536188552cf6b576511f2474601a253"},
+]
+
+[[package]]
+name = "types-pyyaml"
+version = "6.0.12.3"
+description = "Typing stubs for PyYAML"
+category = "dev"
+optional = false
+python-versions = "*"
+files = [
+    {file = "types-PyYAML-6.0.12.3.tar.gz", hash = "sha256:17ce17b3ead8f06e416a3b1d5b8ddc6cb82a422bb200254dd8b469434b045ffc"},
+    {file = "types_PyYAML-6.0.12.3-py3-none-any.whl", hash = "sha256:879700e9f215afb20ab5f849590418ab500989f83a57e635689e1d50ccc63f0c"},
+]
+
+[[package]]
 name = "typing-extensions"
 version = "4.4.0"
 description = "Backported and Experimental Type Hints for Python 3.7+"
@@ -1551,4 +1575,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "db950a0b60e0c660dc3583a5acdf27da57f273d043d3a692162387798af52495"
+content-hash = "7338e9c48f7dce24f83b26581c62f223597b135ce440cb8684d28964bd2d4108"
