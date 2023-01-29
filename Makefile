@@ -11,7 +11,7 @@ lock:
 	poetry lock
 
 lint:
-	poetry run pylint experitorch
+	poetry run mypy experitorch
 
 pre-commit:
 	poetry run pre-commit run
